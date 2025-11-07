@@ -1,2 +1,3 @@
 ml_project/data/pizza_steak_sushi/*
 tutorials/data/*
+.env
